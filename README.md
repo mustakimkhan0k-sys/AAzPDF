@@ -52,10 +52,10 @@ AAzPDF_Manager.py
 ## Screenshots
 
 ### Editor Interface
-![Editor Light](screenshots/editor_home(light).png)
+![Editor Light](screenshots/editor_home_light.png)
 
 ### Editor Dark Mode
-![Editor Dark](screenshots/editor_home(dark).png)
+![Editor Dark](screenshots/editor_home_dark.png)
 
 ### PDF Manager
 ![Manager Home](screenshots/manager_home.png)
